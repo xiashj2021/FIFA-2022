@@ -4,7 +4,7 @@
     <img src='./Element/2022_FIFA_World_Cup.svg' width=240>
 </div>
 <div>
-    <a href='https://github.com/xiashj2021/Strategic-Simulation/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-MPL-blue'></a>
+    <a href='https://github.com/xiashj2021/FIFA-2022/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-MPL-blue'></a>
     <a href='https://www.python.org/downloads/release/python-3913/'><img src='https://img.shields.io/badge/Python-3.9.13-red'></a>
     <a href='https://pypi.org/project/PyQt5/5.15.4/'><img src='https://img.shields.io/badge/PyQt5-5.15.4-green'></a>
 </div>
